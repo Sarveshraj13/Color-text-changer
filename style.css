@@ -1,0 +1,25 @@
+    *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: monospace;
+        }
+        section{
+            width: 100%;
+            min-height: 100vh;
+            display:flex;
+            justify-content: center;
+            align-items: center;
+        }
+        h1{
+            font-size: 72px;
+            font-weight: 800;
+            color: white;
+            opacity: .9;
+        }
+        body{
+            
+            background-size:cover;
+            background : linear-gradient(rgba(255, 0, 0, 0.3), rgb(3, 255, 45)),url('https://images7.alphacoders.com/872/872236.jpg')
+        }
+   
